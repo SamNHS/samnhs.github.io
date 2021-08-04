@@ -64,6 +64,7 @@ I work as a senior application developer for the National Health Service in the 
 - [NHS.UK Frontend](https://nhsuk.github.io/nhsuk-frontend/)
 - [SASS/SCSS](https://sass-lang.com)
 - [Svelte](https://svelte.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Vue.js](https://vuejs.org/)
 
 ### Learning
