@@ -5,14 +5,17 @@ permalink: /about/
 ---
 I work as a senior application developer for the National Health Service in the UK as part of North East Lincolnshire CCG. I have experience in many different areas, both on the server side and client side.
 
-## Server Administration
+## Application Server Administration
 
+- cPanel WebHost Manager (WHM)
 - IIS 5 - 10
-- Plesk
-- cPanel WHM
 - Liferay 6.2
   - Windows Server
   - Tomcat
+- Plesk
+- SQL Server
+- MySQL/MariaDB
+- Windows Server 2012 R2/2016 R2
 
 ## Server Side (Web Application) Development
 
@@ -20,13 +23,17 @@ I work as a senior application developer for the National Health Service in the 
 
 - .NET Framework 1.1 - 4.8  
   Maintenance and updating of existing applications
-- .NET Core 2.1, 3.1  
-  New developments
+- .NET Core 2.1, 3.1, 5.0  
+  New and existing applications.
 - ASP.NET MVC
+  Support and development of existing applications.
 - ASP.NET Web Forms
+  Support and development of existing applications.
 - Razor Pages
+  Development for new and existing applications.
 - SQL Server (Express, Standard and Web Edition)
 - MySQL/Maria DB
+  
 
 ### Intermediate
 
@@ -39,6 +46,7 @@ I work as a senior application developer for the National Health Service in the 
 
 ### Learning
 
+- [Grav (CMS)](https://getgrav.org/)
 - Java
 
 ## Package Management Platforms
@@ -50,14 +58,15 @@ I work as a senior application developer for the National Health Service in the 
 ## Client Side Development
 
 - CSS/HTML
-- [jQuery](https://jquery.com/)
 - [Bootstrap](https://getbootstrap.com)
-- [SASS/SCSS](https://sass-lang.com)
 - [Gulp.js](https://gulpjs.com/)
+- [jQuery](https://jquery.com/)
+- [NHS.UK Frontend](https://nhsuk.github.io/nhsuk-frontend/)
+- [SASS/SCSS](https://sass-lang.com)
+- [Svelte](https://svelte.dev/)
 - [Vue.js](https://vuejs.org/)
 
 ### Learning
 
-- [Jekyll](https://jekyllrb.com/)
 - [Hugo](https://gohugo.io/)
-- [Svelte](https://svelte.dev/)
+- [Jekyll](https://jekyllrb.com/)
