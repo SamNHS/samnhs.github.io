@@ -82,10 +82,11 @@ I work as a senior application developer for the National Health Service in the 
 
 ### Intermediate
 
-- [WPF](https://github.com/dotnet/wpf)
+- [WPF](https://github.com/dotnet/wpf) (.NET)
 
 ### Want to learn
 
-- [Electron](https://www.electronjs.org/)
-- [Tauri](https://tauri.app/)
-- [MAUI](https://dotnet.microsoft.com/en-us/apps/maui)
+- [Electron](https://www.electronjs.org/) (JavaScript / HTML / CSS)
+- [Flutter](https://flutter.dev/) (Dart)
+- [Tauri](https://tauri.app/) (JavaScript / HTML / CSS)
+- [MAUI](https://dotnet.microsoft.com/en-us/apps/maui) (.NET)
