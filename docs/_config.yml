@@ -54,3 +54,4 @@ plugins:
 
 header_pages:
   - about.md
+  - jupyter.md
