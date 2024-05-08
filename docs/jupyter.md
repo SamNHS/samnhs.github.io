@@ -1,6 +1,6 @@
 # Project Jupyter
 
-Project Jupyter is a coloection of services that are used for creating and sharing live and interactive code in multiple languages. It requires Python to be install to set it up.
+Project Jupyter is a collection of services that are used for creating and sharing live and interactive code in multiple languages. It requires Python to be install to set it up.
 
 ## Installation
 
