@@ -109,7 +109,7 @@ Other language kernels are also available, there is a list of some of them on th
 # Converting notebooks
 
 You can use `nbconvert` to convert to different formats. Converting to formats other than Markdown and HTML have additional dependencies.  
-https://nbconvert.readthedocs.io/en/latest/usage.html
+[Using as a command line tool](https://nbconvert.readthedocs.io/en/latest/usage.html)
 
 ```
 jupyter nbconvert .\notebook.ipynb --to markdown
