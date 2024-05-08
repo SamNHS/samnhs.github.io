@@ -17,7 +17,7 @@ You can launch WSL Debian using the command, when you first install it, it runs 
 wsl.exe -d Debian
 ```
 
-Once installed, start WSL and apply updates.
+Once Debian is installed, start WSL and apply updates.
 
 ```
 sudo apt update && sudo apt upgrade -y
@@ -35,6 +35,20 @@ Setup `.gem` folder so `sudo` isn't required.
 export GEM_HOME=$HOME/.gem
 source ~/.bashrc
 ```
+
+To prevent the need to do this every time you start a WSL session, edit the `~/.bashrc` file.
+
+```
+nano ~/.bashrc
+```
+
+Add the following to the end of the file and save.
+
+```
+export GEM_HOME=$HOME/.gem
+```
+
+## Setting up and testing
 
 Change to `docs` if you are not there already.
 
