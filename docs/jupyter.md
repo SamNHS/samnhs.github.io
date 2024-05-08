@@ -62,7 +62,7 @@ pip install viola
 
 There is an extension by Microsoft for working with Jupyter notebooks in VS Code: [marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-## dotnet (C#, F#) support.
+## dotnet (C#, F#) and PowerShell support.
 
 Install dotnet interactive
 
@@ -97,3 +97,17 @@ tslab install
 ## Other languages
 
 Other language kernels are also available, there is a list of some of them on the Jupyter GitHub wiki: [jupyter/jupyter/wiki/Jupyter-kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+
+
+# Converting notebooks
+
+You can use `nbconvert` to convert to different formats. Converting to formats other than Markdown and HTML have additional dependencies.  
+https://nbconvert.readthedocs.io/en/latest/usage.html
+
+```
+jupyter nbconvert .\notebook.ipynb --to markdown
+```
+
+```
+jupyter nbconvert .\notebook.ipynb --to html
+```
