@@ -1,6 +1,13 @@
-# Project Jupyter
+---
+title: Project Jupyter
+---
 
 Project Jupyter is a collection of services that are used for creating and sharing live and interactive code in multiple languages. It requires Python to be install to set it up.
+
+## Examples to try
+
+- [TypeScript](jupyter/TypeScript.md)  
+  Id generation, random seed generator.
 
 ## Installation
 
