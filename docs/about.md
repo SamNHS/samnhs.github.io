@@ -3,7 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-I work as a senior application developer for the National Health Service in the UK as part of Humber and North Yorkshire ICB. I have experience in many different areas, both on the server side and client side and work mostly with web technologies and .NET / C#.
+I work as a senior application developer for the National Health Service in the UK as part of North of England Commissioning Support, for the development, support and maintenance of variuos Humber and North Yorkshire ICB web applications. I have experience in many different development areas in a Full Stack role, both on the server side and client side, server and database management and in multiple programming languages.
+
+The solutions I work on are C# based, using WebForms, MVC or Razor Pages using .NET Core or .NET Framework with a SQL Server database. I also develop applications with Symfony or Laravel using Twig/Blade templates and MySQL as the backend database.
+
+For frontend development, I work with Bootstrap, NHS Frontend, jQuery, TypeScript as well as CSS/SCSS styling, using various package management tools (e.g. npm, pnpm) for build and deployment.
+
+I work with customers to create new systems or make modifications and fix issues with existing ones, and deploy any changes to production servers.
+
+I support, manage and develop for the Liferay Portal solution, mostly in the frontend and via the tools built into the platform web interface.
 
 ## Application Server Administration
 
@@ -12,6 +20,8 @@ I work as a senior application developer for the National Health Service in the 
 - Liferay 6.2
   - Windows Server
   - Tomcat
+- Liferay 7.4
+  - Docker
 - Plesk
 - SQL Server
 - MySQL/MariaDB
@@ -42,6 +52,8 @@ I work as a senior application developer for the National Health Service in the 
 
 - [Apache Groovy](https://groovy-lang.org/)  
   Scripting for Liferay
+- [Apache FreeMarker](https://freemarker.apache.org/)
+  Liferay 7.4 - Templates for custom web content display. Fragments for hybrid CSS/JavaScript/FreeMarker.
 - [Laravel](https://laravel.com/)  
   Maintenance and updating of existing applications
 
