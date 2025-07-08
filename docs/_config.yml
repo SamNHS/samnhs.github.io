@@ -21,7 +21,7 @@
 title: SamNHS (Sam Collett)
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior Web Application developer for NHS @ Humber and North Yorkshire ICB.
+  Senior Application developer for NHS North of England Commissioning Support Unit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
