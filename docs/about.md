@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I work as a senior application developer for the National Health Service in the UK as part of North of England Commissioning Support, for the development, support and maintenance of variuos Humber and North Yorkshire ICB web applications. I have experience in many different development areas in a Full Stack role, both on the server side and client side, server and database management and in multiple programming languages.
+I work as a senior application developer for the National Health Service in the UK as part of NHS North of England Commissioning Support Unit, for the development, support and maintenance of variuos Humber and North Yorkshire ICB web applications. I have experience in many different development areas in a Full Stack role, both on the server side and client side, server and database management and in multiple programming languages.
 
 The solutions I work on are C# based, using WebForms, MVC or Razor Pages using .NET Core or .NET Framework with a SQL Server database. I also develop applications with Symfony or Laravel using Twig/Blade templates and MySQL as the backend database.
 
